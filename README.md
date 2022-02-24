@@ -7,4 +7,4 @@ STA457 Final Individual project . Using Time Series Analysis to forecast Toronto
 - Sample Final Report is uploaded
 - There was minimal analysis carried out due to the time constraint towards the end of the semester
 - Further analysis will be carried out to attain better predictive accuracy and generalize the model behaviour
-- 
+
